@@ -1,0 +1,3 @@
+C:/Users/10580/CLionProjects/Verifica2/cmake-build-debug/CMakeFiles/Verifica2.dir
+C:/Users/10580/CLionProjects/Verifica2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10580/CLionProjects/Verifica2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
